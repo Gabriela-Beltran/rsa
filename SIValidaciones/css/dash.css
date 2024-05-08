@@ -1,0 +1,26 @@
+
+.frame {
+    width: 50%;
+    height: 30%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  h2 {
+    position: relative;
+    text-align: center;
+    color: #353535;
+    font-size: 60px;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    color: #a759f5;
+  }
+  
+  p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 30px;
+    color: #d6adff;
+    margin: 0;
+  }
